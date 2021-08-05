@@ -1,6 +1,6 @@
 # React 기반 ImageSlide-Component
 
-이 SPA는 React와 TypeScript, 확장성과 재사용성을 고려하여 styled-component를 사용하여 제작되었습니다. 원활한 TypeScript사용을 위해 @types/webpack-env을 추가 설치하시기 바랍니다.
+React와 TypeScript, 확장성과 재사용성을 고려하여 styled-component를 사용하여 제작되었습니다. 원활한 TypeScript사용을 위해 @types/webpack-env을 추가 설치하시기 바랍니다.
 
 ## 사용방법
 
